@@ -3,9 +3,9 @@
   "dependencies": {
     "com.elysium.core": "0.0.1"
   },
-  "displayName": "Elysium.Grid",
+  "displayName": "Elysium.Tilemap",
   "hideInEditor": false,
-  "name": "com.elysium.grid",
+  "name": "com.elysium.tilemap",
   "unity": "2019.4",
   "version": "0.0.1",
   "samples": [

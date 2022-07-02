@@ -1,0 +1,19 @@
+{
+    "name": "elysium.tilemap.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e7755f75faaa4104b80b89471a598acb",
+        "GUID:3a9781db4804a9945b9883f3a7c46d45"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,5 +1,5 @@
 {
-    "name": "elysium.grid.runtime",
+    "name": "elysium.tilemap.runtime",
     "rootNamespace": "",
     "references": [
         "GUID:37382e0e53e0abc4485f0c991f89fbdf"
